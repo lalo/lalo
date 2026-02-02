@@ -2,7 +2,6 @@
 
 https://en.wikipedia.org/wiki/Lalo_(nickname)
 
-- 🔭 I’m currently working on https://vowpalwabbit.org/
 
 <!--
 **lalo/lalo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
